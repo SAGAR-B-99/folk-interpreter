@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Env secrets
+.env
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Framework deploy dirs (ignore if you ever try these)
+.vercel/
+.netlify/
